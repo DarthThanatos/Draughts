@@ -1,0 +1,454 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2$$anon$1$$anon$3$$anonfun$1.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2$$anon$1$$anon$3$$anonfun$2.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2$$anon$1$$anon$3.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2$$anon$1.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2$delayedInit$body.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$boardEv$1.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$boardEv$2.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$drawBoard_complete$1$$anonfun$apply$mcVI$sp$1.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$drawBoard_complete$1.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$placeChat$1.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$placeChat$2.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Pone.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\king.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\HelloLocal$$anonfun$1.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\HelloLocal$.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\HelloLocal$delayedInit$body.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\HelloLocal.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\LocalActor$$anonfun$receive$1.class
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\LocalActor.class
+binary dependencies:
+11 items
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\ext\jfxrt.jar
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\rt.jar
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.2.jar
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> C:\Users\Robert\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.60-R9.jar
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\rt.jar
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> C:\Users\Robert\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\rt.jar
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> C:\Users\Robert\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.2.jar
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> C:\Users\Robert\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> C:\Users\Robert\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.60-R9.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+21 items
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anon$2
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anon$2$$anon$1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anon$2$$anon$1$$anon$3
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anon$2$$anon$1$$anon$3$$anonfun$1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anon$2$$anon$1$$anon$3$$anonfun$2
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anon$2$delayedInit$body
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anonfun$boardEv$1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anonfun$boardEv$2
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anonfun$drawBoard_complete$1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anonfun$drawBoard_complete$1$$anonfun$apply$mcVI$sp$1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anonfun$placeChat$1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local.Board$$anonfun$placeChat$2
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> local.Pone
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> local.king
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> local.HelloLocal
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> local.HelloLocal$
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> local.HelloLocal$$anonfun$1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> local.HelloLocal$delayedInit$body
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> local.LocalActor
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> local.LocalActor$$anonfun$receive$1
+used names:
+224 items
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> !
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> $anon
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> %
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> &&
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> *
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> +
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> -
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> /
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> <=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> <init>
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> ==
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> >=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> ANTIQUEWHITE
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> ActionEvent
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> ActorRef
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> AnyRef
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Blue
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Board
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Boolean
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Canvas
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Color
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Cyan
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> DropShadow
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> GOLDENROD
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> GraphicsContext
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Gray
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Green
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> HBox
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Includes
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Insets
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Int
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> JFXApp
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> KeyCode
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> KeyEvent
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> LinearGradient
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> MouseEvent
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Predef
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> PrimaryStage
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Scene
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Stops
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> String
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Unit
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> White
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> Yellow
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> actor
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> actorRef2Scala
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> akka
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> app
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> application
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> boardEv
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> canvas
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chatSize
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_b_text_x
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_b_text_y
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_button_height
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_button_width
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_button_x
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_button_y
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_text_x
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_text_y
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_window_height
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_window_width
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_window_x
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> chat_window_y
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> code
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> content_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> control
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> e
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> e_x
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> e_y
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> effect
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> event
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> eventClosureWrapperWithParam
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> fieldSize
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> fillRect
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> fillRoundRect
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> fill_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> foreach
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> gamingPhase
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> gamingPhase_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> gc
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> geometry
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> getColour
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> graphicsContext2D
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> i
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> initChat
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> input
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> intWrapper
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> isInBorders
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> j
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> jfxKeyEvent2sfx
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> jfxMouseEvent2sfx
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> key
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> lastx
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> lastx_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> lasty
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> lasty_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> layout
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> local
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> manageKeys
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> msg
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> newLine
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> newLine_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> onKeyPressed_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> onMouseClicked_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> onMouseMoved_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> oponentName
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> package
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> paint
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> placeChat
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> playerName
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> println
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> qual$1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> remote
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> remote_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> result
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> scala
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> scalafx
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> scene
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> scene_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> screenSize
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> sendMsg
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> sender
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> sender_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> shape
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> stage_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> strokeText
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> text
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> title_=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> toDouble
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> toInt
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> toString
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> until
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> x
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> x$1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> x$2
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> x1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> y
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> y1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> <init>
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> AnyRef
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> Int
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> Nil
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> Pone
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> Unit
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> accessPoints
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> immutable
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> king
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> local
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> scala
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> x
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> y
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> !
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> <init>
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> ==
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> A1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> ActionEvent
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> Actor
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> ActorSystem
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> App
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> Array
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> B1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> Board
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> BufferedImage
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> ClassTag
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> File
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> Function1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> HelloLocal
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> ImageIO
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> Includes
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> JFXApp
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> LocalActor
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> Predef
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> Props
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> Scene
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> _1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> _2
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> actor
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> actorFor
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> actorOf
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> actorRef2Scala
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> akka
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> app
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> application
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> apply
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> asInstanceOf
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> awt
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> board
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> canvas
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> context
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> control
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> counter
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> drawBoard_complete
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> drawBoard_wait
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> event
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> image
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> imageio
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> input
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> io
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> isInstanceOf
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> java
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> javax
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> local
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> localActor
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> main
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> materializeClassTag
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> msg
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> package
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> println
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> qual$1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> receiveMsg
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> remote
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> scala
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> scalafx
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> scene
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> self
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> shape
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> system
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> toString
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> unchecked
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> x$1
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> x$2
+product stamps:
+21 items
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2$$anon$1$$anon$3$$anonfun$1.class -> lastModified(1454658209772)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2$$anon$1$$anon$3$$anonfun$2.class -> lastModified(1454658209782)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2$$anon$1$$anon$3.class -> lastModified(1454658209732)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2$$anon$1.class -> lastModified(1454658209692)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2$delayedInit$body.class -> lastModified(1454658209802)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anon$2.class -> lastModified(1454658209652)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$boardEv$1.class -> lastModified(1454658209822)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$boardEv$2.class -> lastModified(1454658209842)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$drawBoard_complete$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1454658209872)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$drawBoard_complete$1.class -> lastModified(1454658209862)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$placeChat$1.class -> lastModified(1454658209882)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board$$anonfun$placeChat$2.class -> lastModified(1454658209892)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Board.class -> lastModified(1454658209542)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\HelloLocal$$anonfun$1.class -> lastModified(1454658209952)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\HelloLocal$.class -> lastModified(1454658209942)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\HelloLocal$delayedInit$body.class -> lastModified(1454658209962)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\HelloLocal.class -> lastModified(1454658209912)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\king.class -> lastModified(1454658210042)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\LocalActor$$anonfun$receive$1.class -> lastModified(1454658210022)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\LocalActor.class -> lastModified(1454658209982)
+C:\Users\Robert\Desktop\workspace\HelloLocal\target\scala-2.11\classes\local\Pone.class -> lastModified(1454658210032)
+source stamps:
+3 items
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> hash(f81fda74ee9a9c7704f0c502b8ba28582de67404)
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> hash(c421b0c8918e1bcdb72bf975b372976e17d51588)
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> hash(1f3bfede5839ce08aba5b8f73b7614bad078aaa1)
+binary stamps:
+5 items
+C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\ext\jfxrt.jar -> lastModified(1430069284450)
+C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\rt.jar -> lastModified(1430069283102)
+C:\Users\Robert\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.2.jar -> lastModified(1398256631000)
+C:\Users\Robert\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1435004218000)
+C:\Users\Robert\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.60-R9.jar -> lastModified(1443759482000)
+class names:
+5 items
+C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\ext\jfxrt.jar -> javafx.scene.input.MouseEvent
+C:\Program Files (x86)\Java\jdk1.8.0_45\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Robert\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.2.jar -> akka.actor.Actor
+C:\Users\Robert\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.Serializable
+C:\Users\Robert\.ivy2\cache\org.scalafx\scalafx_2.11\jars\scalafx_2.11-8.0.60-R9.jar -> scalafx.scene.Scene$
+internal apis:
+3 items
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDxlJbJAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAOnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFWWyWx0AAZub3RpZnlzcQB+AAyXEDycdAAEd2FpdHNxAH4ADAXYrHJ0AAhjaGF0U2l6ZXNxAH4ADJZr9uh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMziVM53QAC2NoYXRfdGV4dF94c3EAfgAMoxUmwHQADWNoYXRfYl90ZXh0X3hzcQB+AAxC1h7QdAAFQm9hcmRzcQB+AAyTGnu/dAAGZXF1YWxzc3EAfgAMf8lL13QADWNoYXRfYnV0dG9uX3hzcQB+AAy7Q5yXdAAMYXNJbnN0YW5jZU9mc3EAfgAMTC9i53QACm1hbmFnZUtleXNzcQB+AAxQuzT0dAAMc3luY2hyb25pemVkc3EAfgAM6CTPlXQACWdldENvbG91cnNxAH4ADOL4M4p0AA0kaXNJbnN0YW5jZU9mc3EAfgAMBMOSuXQADmRyYXdCb2FyZF93YWl0c3EAfgAMBEOBw3QACnNjcmVlblNpemVzcQB+AAxKImUTdAAFbGFzdHhzcQB+AAzyMP6XdAANY2hhdF9idXR0b25feXNxAH4ADLyq6RN0ABJkcmF3Qm9hcmRfY29tcGxldGVzcQB+AAyGhx+rdAAJbm90aWZ5QWxsc3EAfgAMQ1FuZ3QAEmNoYXRfd2luZG93X2hlaWdodHNxAH4ADC6LNat0AAxpc0luc3RhbmNlT2ZzcQB+AAwap4NCdAANY2hhdF9iX3RleHRfeXNxAH4ADIpbivN0AARjaGF0c3EAfgAMdwYALnQABWxhc3R5c3EAfgAMn266JnQAB25ld0xpbmVzcQB+AAyg0mYedAAIaW5pdENoYXRzcQB+AAwfeccydAAGPGluaXQ+c3EAfgAM6siW63QABnJlbW90ZXNxAH4ADMUxpp90AAtnYW1pbmdQaGFzZXNxAH4ADCJeWDt0AAdzZW5kTXNnc3EAfgAM9qwqH3QAAj09c3EAfgAMLSsJN3QABWNsb25lc3EAfgAMjvM6NXQAAmdjc3EAfgAM1YKiPXQAB2JvYXJkRXZzcQB+AAym072pdAAJcGxhY2VDaGF0c3EAfgAM7Vhhu3QAEmNoYXRfYnV0dG9uX2hlaWdodHNxAH4ADK7+IpV0AANhcHBzcQB+AAyPPx/4dAAKcmVjZWl2ZU1zZ3NxAH4ADN2Fpvp0AAZzZW5kZXJzcQB+AAy6oi7fdAAIdG9TdHJpbmdzcQB+AAymMilNdAACIT1zcQB+AAycT8MDdAAIZ2V0Q2xhc3NzcQB+AAx8U85FdAARY2hhdF9idXR0b25fd2lkdGhzcQB+AAwojB6cdAARY2hhdF93aW5kb3dfd2lkdGhzcQB+AAyDqO/ZdAALb3BvbmVudE5hbWVzcQB+AAwAr1QwdAANY2hhdF93aW5kb3dfeHNxAH4ADIuillx0AAJuZXNxAH4ADLNTQ0J0AAtjaGF0X3RleHRfeXNxAH4ADLr9ABF0AAtpc0luQm9yZGVyc3NxAH4ADF5klWt0AAJlcXNxAH4ADMdyGnd0AAlmaWVsZFNpemVzcQB+AAw6YEDtdAAKcGxheWVyTmFtZXNxAH4ADAUq/qF0AA1jaGF0X3dpbmRvd195c3EAfgAMXPzt43QABmNhbnZhc3NxAH4ADCPJci90AAIjI3NxAH4ADP0UCjR0AAhmaW5hbGl6ZXNxAH4ADLlo74B0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AIt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AAtsb2NhbC5Cb2FyZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCjAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCLTAAJaW5oZXJpdGVkcQB+AItMAAdwYXJlbnRzcQB+AIt4cQB+AKpzcQB+AKMBdXEAfgCGAAAAAHBzcQB+AKMBdXEAfgCGAAAAAHBzcQB+AKMBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCpdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgDCdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgDDc3EAfgC2dAADQW55c3EAfgC6c3EAfgC9dXEAfgDAAAAAAnNxAH4AwnQABXNjYWxhcQB+AMlwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABWxvY2Fsc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSsGKWYXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEZDOlxVc2Vyc1xSb2JlcnRcRGVza3RvcFx3b3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU+B/adO6anHcE8MUCuLooWC3mdAQ=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDdlm94AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEg8E1l0AAZub3RpZnlzcQB+AAwynR+ldAAEd2FpdHNxAH4ADM6eGvJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMlS5IA3QABmVxdWFsc3NxAH4ADGTFZxp0AAxhc0luc3RhbmNlT2ZzcQB+AAx3QI/BdAAMc3luY2hyb25pemVkc3EAfgAMxIc4iXQADSRpc0luc3RhbmNlT2ZzcQB+AAzULZCrdAAJbm90aWZ5QWxsc3EAfgAMqeFwN3QABFBvbmVzcQB+AAzoocpAdAAMaXNJbnN0YW5jZU9mc3EAfgAMoybOvXQABjxpbml0PnNxAH4ADPP2jLh0AAI9PXNxAH4ADLWY4Hp0AAVjbG9uZXNxAH4ADIUPkw10AAxhY2Nlc3NQb2ludHNzcQB+AAw/II5ndAAIdG9TdHJpbmdzcQB+AAzVqXFWdAACIT1zcQB+AAyTKKDPdAAIZ2V0Q2xhc3NzcQB+AAzwIEm2dAAOY2FsY3VsYXRlTW92ZXNzcQB+AAwWFNRhdAAEa2luZ3NxAH4ADPHwRHh0AAJuZXNxAH4ADLNY4610AAJlcXNxAH4ADO3X1iN0AAIjI3NxAH4ADEZnU9p0AAhmaW5hbGl6ZXNxAH4ADO+goXJ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AApsb2NhbC5Qb25ldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZnNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXBwc3EAfgBEcQB+AFF1cQB+AFIAAAAAc3EAfgBUAHQACmxvY2FsLmtpbmd1cQB+AFcAAAAAcQB+AFt1cQB+AF0AAAAAc3EAfgBfAXEAfgBncHNxAH4AXwFzcQB+AGlzcQB+AF8BdXEAfgBCAAAAAHBzcQB+AF8BdXEAfgBCAAAAAHBzcQB+AF8BdXEAfgBwAAAAA3NxAH4AcnQABFBvbmVzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFbG9jYWxxAH4AhXNxAH4AcnEAfgB1c3EAfgB2c3EAfgB5dXEAfgB8AAAAA3NxAH4AfnEAfgCBc3EAfgB+cQB+AINxAH4AhXNxAH4AcnEAfgCHc3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnEAfgCMcQB+AIVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABWxvY2Fsc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFSsGKWYXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEZDOlxVc2Vyc1xSb2JlcnRcRGVza3RvcFx3b3Jrc3BhY2VcSGVsbG9Mb2NhbFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUxCGwyJGOG823K/l1s3KXbhfVFYg=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCAPnAAAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwe1AhcnQABHNlbGZzcQB+AAvTp8NldAAHY29udGV4dHNxAH4AC+f9nX10AAZzeXN0ZW11cQB+AAkAAAAsc3EAfgALaDuI/XQABm5vdGlmeXNxAH4ACzxkodl0AAdSZWNlaXZlc3EAfgALXOzu/HQABHdhaXRzcQB+AAv453HHdAANJGFzSW5zdGFuY2VPZnNxAH4AC/FDukp0AAZlcXVhbHNzcQB+AAt2s2zhdAAMYXNJbnN0YW5jZU9mc3EAfgALR1/z7HQADmV4ZWN1dGlvblN0YXJ0c3EAfgAL05S+iXQADHN5bmNocm9uaXplZHNxAH4AC2evo9F0AA0kaXNJbnN0YW5jZU9mc3EAfgALDn53AXQAB3JlY2VpdmVzcQB+AAsLhQMOdAAKcHJlUmVzdGFydHNxAH4ACwe14eB0AA1hcm91bmRSZWNlaXZlc3EAfgALLRZc73QAC3Bvc3RSZXN0YXJ0c3EAfgALxCh/X3QABG1haW5zcQB+AAuPRxEVdAAIcG9zdFN0b3BzcQB+AAsNmWDsdAAJbm90aWZ5QWxsc3EAfgALgRLrv3QAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgAL1eDEBXQADGlzSW5zdGFuY2VPZnNxAH4AC4H7YF50ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALUvvakXQADmFyb3VuZFBvc3RTdG9wc3EAfgALtZQFs3QACkxvY2FsQWN0b3JzcQB+AAujqR4jdAAGPGluaXQ+c3EAfgALheo+SXQABnJlbW90ZXNxAH4AC92/Red0AAhwcmVTdGFydHNxAH4AC7SDpZN0AAl1bmhhbmRsZWRzcQB+AAu1lFRFdAAFYm9hcmRzcQB+AAv/Kz27dAACPT1zcQB+AAsoFlPldAAFY2xvbmVzcQB+AAu4uPqodAAGc2VuZGVyc3EAfgALtTC9QnQAB2NvdW50ZXJzcQB+AAt3S1zmdAAIdG9TdHJpbmdzcQB+AAu2RqQZdAAEYXJnc3NxAH4AC4o8JfF0AAIhPXNxAH4AC1190gl0AAhnZXRDbGFzc3NxAH4AC6vCjlN0AApIZWxsb0xvY2Fsc3EAfgALytT2dnQAAm5lc3EAfgALJWQUM3QACmxvY2FsQWN0b3JzcQB+AAvrJuz4dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALHHK/yXQAAmVxc3EAfgAL/47V+HQAC2RlbGF5ZWRJbml0c3EAfgAL4tUyEnQAAiMjc3EAfgAL2iNKPHQACGZpbmFsaXplc3EAfgALATIuH3QACGhhc2hDb2Rlc3EAfgALQIIdUHQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AdXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEGxvY2FsLkhlbGxvTG9jYWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AI8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHVMAAlpbmhlcml0ZWRxAH4AdUwAB3BhcmVudHNxAH4AdXhxAH4AlnNxAH4AjwF1cQB+AHAAAAAAcHNxAH4AjwF1cQB+AHAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AHZxAH4Af3VxAH4AgAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AKB4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AlXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCVc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC6c3EAfgCCAHEAfgAvdXEAfgCFAAAAAHNxAH4ArXQABFVuaXRxAH4As3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgAMTAADdHBlcQB+AKB4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AIh0AAVQbGFpbnEAfgBTc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCuWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCVc3EAfgCtdAAFQXJyYXlxAH4As3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCtdAAGU3RyaW5nc3EAfgCxc3EAfgC0dXEAfgC3AAAAA3NxAH4AuXQABGphdmFzcQB+ALl0AARsYW5ncQB+AL5wc3EAfgCPAXVxAH4A1QAAAARzcQB+AK10AANBcHBxAH4As3NxAH4ArXQAC0RlbGF5ZWRJbml0cQB+ALNzcQB+AK10AAZPYmplY3RxAH4A2XNxAH4ArXQAA0FueXEAfgCzcHBzcQB+AHJxAH4Af3VxAH4AgAAAAABzcQB+AIIAdAAQbG9jYWwuTG9jYWxBY3RvcnVxAH4AhQAAAAB+cQB+AId0AAhDbGFzc0RlZnVxAH4AiwAAAABzcQB+AI8BcQB+AJdwc3EAfgCPAXNxAH4AmXNxAH4AjwF1cQB+AHAAAAAAcHNxAH4AjwF1cQB+AHAAAAAAcHNxAH4AjwF1cQB+ANUAAAADc3EAfgCtdAAFQWN0b3JzcQB+ALFzcQB+ALR1cQB+ALcAAAADc3EAfgC5dAAEYWtrYXNxAH4AuXQABWFjdG9ycQB+AL5zcQB+AK1xAH4A53NxAH4AsXNxAH4AtHVxAH4AtwAAAANzcQB+ALlxAH4A3XNxAH4AuXEAfgDfcQB+AL5zcQB+AK1xAH4A6XNxAH4AsXNxAH4AtHVxAH4AtwAAAAJzcQB+ALlxAH4AvHEAfgC+cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAVsb2NhbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrBilmF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABGQzpcVXNlcnNcUm9iZXJ0XERlc2t0b3Bcd29ya3NwYWNlXEhlbGxvTG9jYWxcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFB87/t5YOc4Iq6W49zt2FLrQeKqh
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomBoard.scala -> 
+AAAAAAAAAAA=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\CustomPone.scala -> 
+AAAAAAAAAAA=
+C:\Users\Robert\Desktop\workspace\HelloLocal\src\main\scala\local\Local.scala -> 
+AAAAAAAAAAA=
+compilations:
+70 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqdWYlJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXEhlbGxvTG9jYWxcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqdp3md1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXEhlbGxvTG9jYWxcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqd++3t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqfunY91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqfy/nd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqg4b0B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqg+nq51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqiPUX51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqiQ6Xp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqiU0N91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqj05SR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqkV1Kt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUquQINB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUquXL7J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUquaZlp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqu5BCB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqu8L0t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqvIlqB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqvL0Cp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqvRMHB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqvTMb51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqvWMeR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqvYElJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqvZzr91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqvo3sJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqvs7/V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqvxr1J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqv1Okh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqwBu9h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqwXz9t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqwZ5bx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqwcjgF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqwdyHZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqxKW351cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqxO/sV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+35 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqxZxSt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+36 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqxb9CZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+37 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqxelUN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+38 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqxnF0p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+39 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqx9zJx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+40 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqyCtKF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqyHJ4h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqyI5wV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqycBb11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqyfk7p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+45 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqyoTUh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+46 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqypYxV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+47 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqy0Ozt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+48 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqy2bBV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+49 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqy+gYZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+50 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqzEai51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+51 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqzHoO91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+52 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqzYeXx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+53 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqzm6C91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+54 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqzrPtl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+55 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqzt2q11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+56 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUqz4OJJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+57 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq0JouV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+58 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq0Mgw91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+59 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq0R8qd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+60 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq4ZYPh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+61 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq4gpaB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+62 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq4pXEF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+63 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq6CYWx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+64 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq6Kfi51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+65 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq6dYD11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+66 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq6gF191cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+67 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq6jYyZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+68 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUq66dAp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+69 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUrBilmF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARkM6XFVzZXJzXFJvYmVydFxEZXNrdG9wXHdvcmtzcGFjZVxIZWxsb0xvY2FsXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
